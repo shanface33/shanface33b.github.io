@@ -44,6 +44,8 @@ Welcome to my homepage! I am currently a Research Scientist and Assistant Lab Di
 **[GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection]**
 
 Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, [**Paper**](https://ieeexplore.ieee.org/abstract/document/10246417), [**Code**](https://github.com/littlejuyan/GLFF)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMF@CVPR23</div><img src='images/AutoS_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,12 +54,18 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, [**Paper**](https
 
 <u>Shan Jia</u>, Mingzhen Huang, *et al.*, [**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf), [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J23</div><img src='images/ISPRSJ_23.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery]**
 
 Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003021)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J22</div><img src='images/ISPRSJ_22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,12 +74,18 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, [**Paper**](https://www.scien
 
 Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, [**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320), [**Code**](https://github.com/shanface33/saliency_last_way_finding)
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP22</div><img src='images/DFDM_21.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 **[Model Attribution of Face-swap Deepfake Videos]**
 
 <u>Shan Jia</u>, Xin Li, Siwei Lyu, [**Paper**](https://arxiv.org/pdf/2202.12951.pdf), [**Code & Dataset**](https://github.com/shanface33/Deepfake_Model_Attribution)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT20</div><img src='images/FBC_20.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
