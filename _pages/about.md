@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am currently a Research Scientist and Assistant Lab Director in the [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering/about-us.html) at the University at Buffalo (UB), State University of New York. I feel lucky to be a member of the [Media Forensic Lab](https://ubmdfl.cse.buffalo.edu/) led by Professor [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/index.html). Before joining to UB, I was a visiting scholar in the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with Professor [Xin Li](https://xinli.faculty.wvu.edu/) and [Guodong Guo](https://directory.statler.wvu.edu/faculty-staff-directory/guodong-guo). In 2021, I finished my Ph.D. from Wuhan University, advised by Professor [Zhengquan Xu](https://www.researchgate.net/profile/Zhengquan-Xu).
+Welcome to my homepage! My name is Shan Jia (贾姗). In Mandarin, my name coincidentally mirrors the pronunciation of "Fake Mountain." What's even more interesting is that my research is closely related to "fake things", including the identification and generation of fake images, videos, audio, and news.
+
+I am currently a Research Scientist and Assistant Lab Director in the [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering/about-us.html) at the University at Buffalo (UB), State University of New York. I feel lucky to be a member of the [Media Forensic Lab](https://ubmdfl.cse.buffalo.edu/) led by Professor [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/index.html). Before joining to UB, I was a visiting scholar in the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with Professor [Xin Li](https://xinli.faculty.wvu.edu/) and [Guodong Guo](https://directory.statler.wvu.edu/faculty-staff-directory/guodong-guo). In 2021, I finished my Ph.D. from Wuhan University, advised by Professor [Zhengquan Xu](https://www.researchgate.net/profile/Zhengquan-Xu).
 
 **Research Interests**: Digital Media Forensics, Deepfakes Detection, Biometrics, and Computer Vision, etc.
 
@@ -57,7 +59,7 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, [**Paper**](https
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J23</div><img src='images/ISPRS_23.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J23</div><img src='images/ISPRS_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery]**
