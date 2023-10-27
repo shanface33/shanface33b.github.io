@@ -52,12 +52,12 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, [**Paper**](https
 
 **[AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics]**
 
-<u>Shan Jia</u>, Mingzhen Huang, *et al.*, [**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf), [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
+<u>Shan Jia</u>, Mingzhen Huang, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu, [**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf), [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J23</div><img src='images/ISPRSJ_23.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J23</div><img src='images/ISPRS_23.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery]**
@@ -77,7 +77,7 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, [**PDF**](https://www.sciencedi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP22</div><img src='images/DFDM_21.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP22</div><img src='images/DFDM_21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Model Attribution of Face-swap Deepfake Videos]**
@@ -87,13 +87,15 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, [**PDF**](https://www.sciencedi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT20</div><img src='images/FBC_20.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT20</div><img src='images/FBC_20.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[3D face anti-spoofing with factorized bilinear coding]**
 
 <u>Shan Jia</u>, Xin Li, *et al.*, [**Paper**](https://arxiv.org/pdf/2005.06514.pdf), [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
 
+</div>
+</div>
 
 # 🖊 Services
 - Conference Reviewer: *CVPR 22, WACV 24, ICCV 23, ECCV 22*
