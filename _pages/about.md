@@ -79,6 +79,8 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, [**PDF**](https://www.sciencedi
 **[3D face anti-spoofing with factorized bilinear coding]**
 
 <u>Shan Jia</u>, Xin Li, *et al.*, [**Paper**](https://arxiv.org/pdf/2005.06514.pdf), [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
+</div>
+</div>
 
 # 🖊 Services
 - Conference Reviewer: *CVPR 22, WACV 24, ICCV 23, ECCV 22*
