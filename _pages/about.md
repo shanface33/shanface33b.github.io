@@ -23,7 +23,7 @@ redirect_from:
 
 
 # 🔈 News
-* Oct. 2023: A paper on [improving fairness in deepfake detection](https://arxiv.org/pdf/2306.16635.pdf) is accepted by [WACV 2024](https://wacv2024.thecvf.com/), [code](https://github.com/littlejuyan/DF_Fairness).
+* Oct. 2023: A paper on [improving fairness in deepfake detection](https://arxiv.org/pdf/2306.16635.pdf) is accepted by [WACV 2024](https://wacv2024.thecvf.com/).
 * Sep. 2023: A paper on [audio-visual deepfake detection](https://arxiv.org/pdf/2310.03827.pdf) is accepted by [MIT IEEE Undergraduate Research Technology Conference](https://urtc.mit.edu/). Congratulations to Sneha Muppalla (a senior high school student)!
 * Aug. 2023: A paper on [street view imagery analysis](https://arxiv.org/pdf/2305.02911.pdf) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
 * Aug. 2023: I’m starting a new position as Assistant Lab Director at [UB Media Forensic Lab (UB MDFL)](https://ubmdfl.cse.buffalo.edu/)!😊
@@ -37,23 +37,34 @@ redirect_from:
 * Jun. 2021: I defended my Ph.D. dissertation on face spoofing detection and will join UB as a Post-Doctoral Researcher.
 * Dec. 2020: I joined [2020 International Graduate Workshop on GeoInformatics](http://www.lmars.whu.edu.cn/Upload/1608014392.pdf), and won the Excellent Presentation Award (1/11).
 
-# 📝Selected Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/ISPRSJ_22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003021))
+#**[Improving Fairness in Deepfake Detection]**(https://arxiv.org/pdf/2306.16635.pdf)
 
-Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li<br/>
+#Yan Ju, Shu Hu, <u>Shan Jia</u>, George H Chen, Siwei Lyu [**Code**](https://github.com/littlejuyan/DF_Fairness)
 
-[**Project**]
+#<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/ISPRSJ_22.png' alt="sym" #width="100%"></div></div>
+#<div class='paper-box-text' markdown="1">
+
+**[UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery]**([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003021))
+
+Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/ISPRSJ_22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding]**(https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320)
+
+Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li [**PDF**]([https://github.com/shanface33/saliency_last_way_finding](https://arxiv.org/pdf/2205.06934.pdf))
 
 
-# 💬 Invited Talks
-- *2021.12*, "Generation model attribution of face-swapped Deepfake videos", Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop ([link](https://mfc.nist.gov/)). 
-- *2021.10*, “DeepFake” Panel, 2021 InfoCamp: Our Data / Our Selves, UC Berkeley ([link](https://infocamp.ischool.berkeley.edu/)). 
-- *2020.12*,3D Face Anti-Spoofing with Factorized Bilinear Coding, 2020 International Graduate Workshop on GeoInformatics, Excellent Presentation Award (1/11) ([link](https://www.google.com/url?q=http://www.lmars.whu.edu.cn/Upload/1608014392.pdf&sa=D&source=apps-viewer-frontend&ust=1698439305918132&usg=AOvVaw0SWQ4muyYGeAWpRq2dW6Sm&hl=en)). 
 
-# 💻 Services
+#- *2021.12*, "Generation model attribution of face-swapped Deepfake videos", Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop ([link](https://mfc.nist.gov/)). 
+#- *2021.10*, “DeepFake” Panel, 2021 InfoCamp: Our Data / Our Selves, UC Berkeley ([link](https://infocamp.ischool.berkeley.edu/)). 
+#- *2020.12*,3D Face Anti-Spoofing with Factorized Bilinear Coding, 2020 International Graduate Workshop on GeoInformatics, Excellent Presentation Award (1/11) ([link](https://www.google.com/url?q=http://www.lmars.whu.edu.cn/Upload/1608014392.pdf&sa=D&source=apps-viewer-frontend&ust=1698439305918132&usg=AOvVaw0SWQ4muyYGeAWpRq2dW6Sm&hl=en)). 
+
+# 🖊 Services
 - Conference Reviewer: *CVPR 22, WACV 24, ICCV 23, ECCV 22*
 - Journal Reviewer: *IEEE TIFS, IEEE TMM, IEEE TIP, IEEE TCSVT*
