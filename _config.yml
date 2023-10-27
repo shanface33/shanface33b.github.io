@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shan Jia"
-description              : "Department of Computer Science and Engineering, University at Buffalo"
+description              : "University at Buffalo"
 repository               : "shanface33/https://shan_jia.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shan Jia"
-  avatar           : "images/Profile0.png"
+  avatar           : "images/Profile.png"
   bio              : "Research Scientist"
   location         : "Buffalo, NY, USA"
   employer         :
