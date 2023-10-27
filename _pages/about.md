@@ -48,37 +48,37 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, [**Code**](https:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMF@CVPR 2023</div><img src='images/AutoS_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics]**(https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf) 
+**[AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics]**
 
-<u>Shan Jia</u>, Mingzhen Huang, *et al.*, [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
+<u>Shan Jia</u>, Mingzhen Huang, *et al.*, [**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf), [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/ISPRSJ_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery]**([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003021))
+**[UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery]**
 
-Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*
+Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003021)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/ISPRSJ_22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2022</div><img src='images/ISPRSJ_22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding]**(https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320)
+**[A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding]**
 
-Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, [**PDF**](https://arxiv.org/pdf/2205.06934.pdf)), [**Code**](https://github.com/shanface33/saliency_last_way_finding)
+Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, [**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320), [**Code**](https://github.com/shanface33/saliency_last_way_finding)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2022</div><img src='images/DFDM_21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[Model Attribution of Face-swap Deepfake Videos]**(https://arxiv.org/pdf/2202.12951.pdf)
+**[Model Attribution of Face-swap Deepfake Videos]**
 
-<u>Shan Jia</u>, Xin Li, Siwei Lyu [**Code & Dataset**](https://github.com/shanface33/Deepfake_Model_Attribution)
+<u>Shan Jia</u>, Xin Li, Siwei Lyu, [**Paper**](https://arxiv.org/pdf/2202.12951.pdf), [**Code & Dataset**](https://github.com/shanface33/Deepfake_Model_Attribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2020</div><img src='images/FBC_20.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[3D face anti-spoofing with factorized bilinear coding]**(https://arxiv.org/pdf/2005.06514.pdf) 
+**[3D face anti-spoofing with factorized bilinear coding]**
 
-<u>Shan Jia</u>, Xin Li, *et al.*, [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
+<u>Shan Jia</u>, Xin Li, *et al.*, [**Paper**](https://arxiv.org/pdf/2005.06514.pdf), [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
 
 # 🖊 Services
 - Conference Reviewer: *CVPR 22, WACV 24, ICCV 23, ECCV 22*
