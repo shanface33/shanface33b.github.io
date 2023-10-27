@@ -104,5 +104,5 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, ISPRS Journal of Photogrammetry
 - Sep. 2010 - Jun. 2014, Bachelor, Electrical Engineering, [Electronic Information School, Wuhan University](http://eis.whu.edu.cn/indexone.shtml), China (Recommended to be a graduate student exempt from an admission exam).
 
 # 🖊 Services
-- Conference Reviewer: *WACV 24, ICCV 23, CVPR 22, ECCV 22*
+- Conference Reviewer: *WACV, ICCV, CVPR, ECCV*
 - Journal Reviewer: *IEEE TIFS, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TBIOM, PR, ACM TOG*
