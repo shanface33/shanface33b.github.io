@@ -41,9 +41,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/TMM_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection]**(https://ieeexplore.ieee.org/abstract/document/10246417) 
+**[GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection]**
 
-Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, [**Code**](https://github.com/littlejuyan/GLFF)
+Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, [**Paper**](https://ieeexplore.ieee.org/abstract/document/10246417), [**Code**](https://github.com/littlejuyan/GLFF)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMF@CVPR 2023</div><img src='images/AutoS_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
