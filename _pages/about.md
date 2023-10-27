@@ -23,7 +23,7 @@ redirect_from:
 
 
 # 🔈 News
-* Oct. 2023: A paper on [improving fairness in deepfake detection](https://arxiv.org/pdf/2306.16635.pdf) is accepted by [WACV 2024](https://wacv2024.thecvf.com/).
+* Oct. 2023: A paper on [improving fairness in deepfake detection](https://arxiv.org/pdf/2306.16635.pdf) is accepted by [WACV 2024](https://wacv2024.thecvf.com/) ([**Code**](https://github.com/littlejuyan/DF_Fairness)).
 * Sep. 2023: A paper on [audio-visual deepfake detection](https://arxiv.org/pdf/2310.03827.pdf) is accepted by [MIT IEEE Undergraduate Research Technology Conference](https://urtc.mit.edu/). Congratulations to Sneha Muppalla (a senior high school student)!
 * Aug. 2023: A paper on [street view imagery analysis](https://arxiv.org/pdf/2305.02911.pdf) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
 * Aug. 2023: I’m starting a new position as Assistant Lab Director at [UB Media Forensic Lab (UB MDFL)](https://ubmdfl.cse.buffalo.edu/)!😊
@@ -38,15 +38,22 @@ redirect_from:
 * Dec. 2020: I joined [2020 International Graduate Workshop on GeoInformatics](http://www.lmars.whu.edu.cn/Upload/1608014392.pdf), and won the Excellent Presentation Award (1/11).
 
 # 📝Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/ISPRSJ_22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/TMM_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-#**[Improving Fairness in Deepfake Detection]**(https://arxiv.org/pdf/2306.16635.pdf)
+**[GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection]**(https://ieeexplore.ieee.org/abstract/document/10246417) 
 
-#Yan Ju, Shu Hu, <u>Shan Jia</u>, George H Chen, Siwei Lyu [**Code**](https://github.com/littlejuyan/DF_Fairness)
+Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, [**Code**](https://github.com/littlejuyan/GLFF)
 
-#<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/ISPRSJ_22.png' alt="sym" #width="100%"></div></div>
-#<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMF@CVPR 2023</div><img src='images/AutoS_23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics]**(https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf) 
+
+<u>Shan Jia</u>, Mingzhen Huang, *et al.*, [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/ISPRSJ_23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **[UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery]**([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003021))
 
@@ -57,13 +64,21 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*
 
 **[A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding]**(https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320)
 
-Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li [**PDF**]([https://github.com/shanface33/saliency_last_way_finding](https://arxiv.org/pdf/2205.06934.pdf))
+Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, [**PDF**](https://arxiv.org/pdf/2205.06934.pdf)), [**Code**](https://github.com/shanface33/saliency_last_way_finding)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2022</div><img src='images/DFDM_21.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[Model Attribution of Face-swap Deepfake Videos]**(https://arxiv.org/pdf/2202.12951.pdf)
 
+<u>Shan Jia</u>, Xin Li, Siwei Lyu [**Code & Dataset**](https://github.com/shanface33/Deepfake_Model_Attribution)
 
-#- *2021.12*, "Generation model attribution of face-swapped Deepfake videos", Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop ([link](https://mfc.nist.gov/)). 
-#- *2021.10*, “DeepFake” Panel, 2021 InfoCamp: Our Data / Our Selves, UC Berkeley ([link](https://infocamp.ischool.berkeley.edu/)). 
-#- *2020.12*,3D Face Anti-Spoofing with Factorized Bilinear Coding, 2020 International Graduate Workshop on GeoInformatics, Excellent Presentation Award (1/11) ([link](https://www.google.com/url?q=http://www.lmars.whu.edu.cn/Upload/1608014392.pdf&sa=D&source=apps-viewer-frontend&ust=1698439305918132&usg=AOvVaw0SWQ4muyYGeAWpRq2dW6Sm&hl=en)). 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2020</div><img src='images/FBC_20.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[3D face anti-spoofing with factorized bilinear coding]**(https://arxiv.org/pdf/2005.06514.pdf) 
+
+<u>Shan Jia</u>, Xin Li, *et al.*, [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
 
 # 🖊 Services
 - Conference Reviewer: *CVPR 22, WACV 24, ICCV 23, ECCV 22*
