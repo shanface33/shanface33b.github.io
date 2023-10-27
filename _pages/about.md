@@ -98,7 +98,7 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, ISPRS Journal of Photogrammetry
 </div>
 </div>
 
-# 🏫 Education
+# 🏫 Educations
 - Oct. 2017 - Jun. 2021, Visiting Ph.D., Computer Science, [Department of Computer Science and Electrical Engineering, West Virginia University](https://lcsee.statler.wvu.edu/), USA
 - Sep. 2014 - Jun. 2021, MD-PhD, Communication and Information Systems, [State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University](http://www.lmars.whu.edu.cn/en), China
 - Sep. 2010 - Jun. 2014, Bachelor, Electrical Engineering, [Electronic Information School, Wuhan University](http://eis.whu.edu.cn/indexone.shtml), China (Recommended to be a graduate student exempt from an admission exam).
