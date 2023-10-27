@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-* I am currently a Research Scientist and Assistant Lab Director in the [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering/about-us.html) at the University at Buffalo (UB), State University of New York. I feel lucky to be a member of the [Media Forensic Lab](https://ubmdfl.cse.buffalo.edu/) led by Professor [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/index.html). Before joining to UB, I was a visiting scholar in the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with Professor [Xin Li](https://xinli.faculty.wvu.edu/) and [Guodong Guo](https://directory.statler.wvu.edu/faculty-staff-directory/guodong-guo). In 2021, I finished my Ph.D. from Wuhan University, advised by Professor [Zhengquan Xu](https://www.researchgate.net/profile/Zhengquan-Xu).
+I am currently a Research Scientist and Assistant Lab Director in the [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering/about-us.html) at the University at Buffalo (UB), State University of New York. I feel lucky to be a member of the [Media Forensic Lab](https://ubmdfl.cse.buffalo.edu/) led by Professor [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/index.html). Before joining to UB, I was a visiting scholar in the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with Professor [Xin Li](https://xinli.faculty.wvu.edu/) and [Guodong Guo](https://directory.statler.wvu.edu/faculty-staff-directory/guodong-guo). In 2021, I finished my Ph.D. from Wuhan University, advised by Professor [Zhengquan Xu](https://www.researchgate.net/profile/Zhengquan-Xu).
 
 **Research Interests**: Digital Media Forensics, Deepfakes Detection, Biometrics, and Computer Vision, etc.
 
@@ -52,7 +52,7 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, [**Paper**](https
 
 <u>Shan Jia</u>, Mingzhen Huang, *et al.*, [**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf), [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/ISPRSJ_23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J 2023</div><img src='images/ISPRSJ_23.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery]**
@@ -66,14 +66,14 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, [**Paper**](https://www.scien
 
 Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, [**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320), [**Code**](https://github.com/shanface33/saliency_last_way_finding)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2022</div><img src='images/DFDM_21.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2022</div><img src='images/DFDM_21.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Model Attribution of Face-swap Deepfake Videos]**
 
 <u>Shan Jia</u>, Xin Li, Siwei Lyu, [**Paper**](https://arxiv.org/pdf/2202.12951.pdf), [**Code & Dataset**](https://github.com/shanface33/Deepfake_Model_Attribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2020</div><img src='images/FBC_20.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2020</div><img src='images/FBC_20.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[3D face anti-spoofing with factorized bilinear coding]**
