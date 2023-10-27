@@ -56,6 +56,7 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, IEEE Transactions
 <u>Shan Jia</u>, Mingzhen Huang, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu, Workshop on Media Forensics, CVPR2023, [**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf), [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J23</div><img src='images/ISPRS_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,6 +65,7 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, IEEE Transactions
 
 Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, ISPRS Journal of Photogrammetry and Remote Sensing, [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003021)
 
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP22</div><img src='images/DFDM_21.png' alt="sym" width="100%"></div></div>
@@ -74,6 +76,7 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, ISPRS Journal of Photogrammet
 <u>Shan Jia</u>, Xin Li, Siwei Lyu, 2022 IEEE International Conference on Image Processing, [**Paper**](https://arxiv.org/pdf/2202.12951.pdf), [**Code, Dataset**](https://github.com/shanface33/Deepfake_Model_Attribution)
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J22</div><img src='images/ISPRSJ_22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,6 +86,7 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, ISPRS Journal of Photogrammet
 Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, ISPRS Journal of Photogrammetry and Remote Sensing, [**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320), [**Code**](https://github.com/shanface33/saliency_last_way_finding)
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT20</div><img src='images/FBC_20.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -91,6 +95,7 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, ISPRS Journal of Photogrammetry
 
 <u>Shan Jia</u>, Xin Li, *et al.*, IEEE Transactions on Circuits and Systems for Video Technology, [**Paper**](https://arxiv.org/pdf/2005.06514.pdf), [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
 
+</div>
 </div>
 
 # 🏫 Education
