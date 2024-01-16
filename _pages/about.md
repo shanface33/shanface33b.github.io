@@ -41,8 +41,9 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 * Dec. 2020: I joined [2020 International Graduate Workshop on GeoInformatics](http://www.lmars.whu.edu.cn/Upload/1608014392.pdf), and won the Excellent Presentation Award (1/11).
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM23</div><img src='images/TMM_23.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM23</div><img src='images/TMM_23.png' alt="sym" width="70%"></div></div>
+
+<div class='paper-box-text' markdown="1" style="margin-left: 12px; display: inline-block; vertical-align: top">
 
 **[GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection]**
 
@@ -50,7 +51,7 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, IEEE Transactions
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMF@CVPR23</div><img src='images/AutoS_23.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMF@CVPR23</div><img src='images/AutoS_23.png' alt="sym" width="70%"></div></div>
 
 <div class='paper-box-text' markdown="1" style="margin-left: 2px; display: inline-block">
   
@@ -62,8 +63,9 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, IEEE Transactions
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J23</div><img src='images/ISPRS_23.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J23</div><img src='images/ISPRS_23.png' alt="sym" width="70%"></div></div>
+
+<div class='paper-box-text' markdown="1" style="margin-left: 12px; display: inline-block; vertical-align: top">
 
 **[UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery]**
 
@@ -72,7 +74,7 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, ISPRS Journal of Photogrammet
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP22</div><img src='images/DFDM_21.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP22</div><img src='images/DFDM_21.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Model Attribution of Face-swap Deepfake Videos]**
@@ -82,8 +84,8 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, ISPRS Journal of Photogrammet
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J22</div><img src='images/ISPRSJ_22.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J22</div><img src='images/ISPRSJ_22.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1" style="margin-left: 12px; display: inline-block; vertical-align: top">
 
 **[A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding]**
 
@@ -92,8 +94,8 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, ISPRS Journal of Photogrammetry
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT20</div><img src='images/FBC_20.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT20</div><img src='images/FBC_20.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1" style="margin-left: 15px; display: inline-block; vertical-align: top">
 
 **[3D face anti-spoofing with factorized bilinear coding]**
 
