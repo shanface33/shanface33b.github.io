@@ -52,7 +52,7 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, IEEE Transactions
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMF@CVPR23</div><img src='images/AutoS_23.png' alt="sym" width="80%"></div></div>
 
-<div class='paper-box-text' markdown="1" style="margin-left: 5px; display: inline-block; vertical-align: top;">
+<div class='paper-box-text' markdown="1" style="margin-left: 2px; display: inline-block">
   
 **[AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics]**
 
