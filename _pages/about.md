@@ -24,6 +24,8 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 **Research Interests**: Digital Media Forensics, Biometrics, and Computer Vision, etc.
 
 # 🔈 News
+* Jan. 2024: A paper on exposeing text-image inconsistency is accepted by ICLR 2024.
+* Nov. 2023: I am invited to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
 * Oct. 2023: A paper on improving fairness in deepfake detection is accepted by WACV 2024 ([**Code**](https://github.com/littlejuyan/DF_Fairness)).
 * Sep. 2023: A paper on audio-visual deepfake detection is accepted by MIT IEEE Undergraduate Research Technology Conference. Congratulations to Sneha Muppalla (a senior high school student)!
 * Aug. 2023: A paper on street view imagery analysis is accepted by ISPRS Journal of Photogrammetry and Remote Sensing.
