@@ -51,14 +51,16 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, IEEE Transactions
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WMF@CVPR23</div><img src='images/AutoS_23.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
 
+<div class='paper-box-text' markdown="1" style="margin-left: 5px; display: inline-block; vertical-align: top;">
+  
 **[AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics]**
 
 <u>Shan Jia</u>, Mingzhen Huang, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu, Workshop on Media Forensics, CVPR2023, [**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf), [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-J23</div><img src='images/ISPRS_23.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
