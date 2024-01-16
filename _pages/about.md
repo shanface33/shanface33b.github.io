@@ -24,23 +24,23 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 **Research Interests**: Digital Media Forensics, Biometrics, and Computer Vision, etc.
 
 # 🔈 News
-* Jan. 2024: A paper on uncovering text-image inconsistency is accepted by ICLR 2024.
-* Nov. 2023: I am invited to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
-* Oct. 2023: A paper on improving fairness in deepfake detection is accepted by WACV 2024 ([**Code**](https://github.com/littlejuyan/DF_Fairness)).
-* Sep. 2023: A paper on audio-visual deepfake detection is accepted by MIT IEEE Undergraduate Research Technology Conference. Congratulations to Sneha Muppalla (a senior high school student)!
-* Aug. 2023: A paper on street view imagery analysis is accepted by ISPRS Journal of Photogrammetry and Remote Sensing.
-* Aug. 2023: I’m starting a new position as Assistant Lab Director at [UB Media Forensic Lab (UB MDFL)](https://ubmdfl.cse.buffalo.edu/)!😊
-* Aug. 2023: A paper on image forgery detection is accepted by IEEE Transactions on Multimedia.
-* Apr. 2023: Two papers are accepted by the CVPR2023 Workshop on Media Forensics (WMF). Our Autosplice dataset has been released ([link](https://github.com/shanface33/AutoSplice_Dataset))! 
-* Nov. 2022: A paper on street view image inpainting is accepted by ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 12.7).
-* Jun. 2022: Two papers on Media Forensics are accepted by ICIP 2022.
-* Jan. 2022: A paper on Image-text De-contextualization Detection is accepted by ICASSP 2022.
-* Dec. 2021: I gave a keynote speech on Deepfakes at [Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop](https://mfc.nist.gov/workshop).
-* Oct. 2021: I joined [UC Berkeley InforCamp](https://infocamp.ischool.berkeley.edu/) Deepfake Panel as a speaker.
-* Jun. 2021: I defended my Ph.D. dissertation on face spoofing detection and will join UB as a Post-Doctoral Researcher.
-* Dec. 2020: I joined [2020 International Graduate Workshop on GeoInformatics](http://www.lmars.whu.edu.cn/Upload/1608014392.pdf), and won the Excellent Presentation Award (1/11).
+* 2024.01: A paper on uncovering text-image inconsistency is accepted by ICLR 2024.
+* 2023.11: I am invited to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
+* 2023.10: A paper on improving fairness in deepfake detection is accepted by WACV 2024 ([**Code**](https://github.com/littlejuyan/DF_Fairness)).
+* 2023.09: A paper on audio-visual deepfake detection is accepted by MIT IEEE Undergraduate Research Technology Conference. Congratulations to Sneha Muppalla (a senior high school student)!
+* 2023.08: A paper on street view imagery analysis is accepted by ISPRS Journal of Photogrammetry and Remote Sensing.
+* 2023.08: I’m starting a new position as Assistant Lab Director at [UB Media Forensic Lab (UB MDFL)](https://ubmdfl.cse.buffalo.edu/)!😊
+* 2023.08: A paper on image forgery detection is accepted by IEEE Transactions on Multimedia.
+* 2023.04: Two papers are accepted by the CVPR2023 Workshop on Media Forensics (WMF). Our Autosplice dataset has been released ([link](https://github.com/shanface33/AutoSplice_Dataset))! 
+* 2022.11: A paper on street view image inpainting is accepted by ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 12.7).
+* 2022.06: Two papers on Media Forensics are accepted by ICIP 2022.
+* 2022.01: A paper on Image-text De-contextualization Detection is accepted by ICASSP 2022.
+* 2021.12: I gave a keynote speech on Deepfakes at [Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop](https://mfc.nist.gov/workshop).
+* 2021.10: I joined [UC Berkeley InforCamp](https://infocamp.ischool.berkeley.edu/) Deepfake Panel as a speaker.
+* 2021.06: I defended my Ph.D. dissertation on face spoofing detection and will join UB as a Post-Doctoral Researcher.
+* 2020.12: I joined [2020 International Graduate Workshop on GeoInformatics](http://www.lmars.whu.edu.cn/Upload/1608014392.pdf), and won the Excellent Presentation Award (1/11).
 
-# 📝 Publications
+# 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM23</div><img src='images/TMM_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,7 +100,7 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, ISPRS Journal of Photogrammetry
 </div>
 </div>
 
-# 🏫 Educations
+# 🏫 Education
 - Oct. 2017 - Jun. 2021, Visiting Ph.D., Computer Science, [Department of Computer Science and Electrical Engineering, West Virginia University](https://lcsee.statler.wvu.edu/), USA
 - Sep. 2014 - Jun. 2021, MD-PhD, Communication and Information Systems, [State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University](http://www.lmars.whu.edu.cn/en), China
 - Sep. 2010 - Jun. 2014, Bachelor, Electrical Engineering, [Electronic Information School, Wuhan University](http://eis.whu.edu.cn/indexone.shtml), China (Recommended to be a graduate student exempt from an admission exam).
