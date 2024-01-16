@@ -40,7 +40,7 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 * 2021.06: I defended my Ph.D. dissertation on face spoofing detection and will join UB as a Post-Doctoral Researcher.
 * 2020.12: I joined [2020 International Graduate Workshop on GeoInformatics](http://www.lmars.whu.edu.cn/Upload/1608014392.pdf), and won the Excellent Presentation Award (1/11).
 
-# 📝 Selected Publications
+# 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM23</div><img src='images/TMM_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
