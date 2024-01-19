@@ -46,7 +46,9 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 
 **[GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection]**
 
-Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, IEEE Transactions on Multimedia, [**Paper**](https://ieeexplore.ieee.org/abstract/document/10246417), [**Code**](https://github.com/littlejuyan/GLFF)
+Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, IEEE Transactions on Multimedia
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10246417), [**Code**](https://github.com/littlejuyan/GLFF)
 </div>
 </div>
 
@@ -55,7 +57,9 @@ Yan Ju, <u>Shan Jia</u>, Jialing Cai, Haiying Guan, Siwei Lyu, IEEE Transactions
   
 **[AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics]**
 
-<u>Shan Jia</u>, Mingzhen Huang, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu, Workshop on Media Forensics, CVPR2023, [**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf), [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
+<u>Shan Jia</u>, Mingzhen Huang, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu, Workshop on Media Forensics, CVPR2023
+
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf), [**Dataset**](https://github.com/shanface33/AutoSplice_Dataset)
 
 </div>
 </div>
@@ -75,7 +79,9 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, ISPRS Journal of Photogrammet
 
 **[Model Attribution of Face-swap Deepfake Videos]**
 
-<u>Shan Jia</u>, Xin Li, Siwei Lyu, 2022 IEEE International Conference on Image Processing, [**Paper**](https://arxiv.org/pdf/2202.12951.pdf), [**Code, Dataset**](https://github.com/shanface33/Deepfake_Model_Attribution)
+<u>Shan Jia</u>, Xin Li, Siwei Lyu, 2022 IEEE International Conference on Image Processing
+
+[**Paper**](https://arxiv.org/pdf/2202.12951.pdf), [**Code, Dataset**](https://github.com/shanface33/Deepfake_Model_Attribution)
 
 </div>
 </div>
@@ -85,7 +91,9 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, *et al.*, ISPRS Journal of Photogrammet
 
 **[A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding]**
 
-Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, ISPRS Journal of Photogrammetry and Remote Sensing, [**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320), [**Code**](https://github.com/shanface33/saliency_last_way_finding)
+Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, ISPRS Journal of Photogrammetry and Remote Sensing
+
+[**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0924271623002320), [**Code**](https://github.com/shanface33/saliency_last_way_finding)
 
 </div>
 </div>
@@ -95,7 +103,9 @@ Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li, ISPRS Journal of Photogrammetry
 
 **[3D face anti-spoofing with factorized bilinear coding]**
 
-<u>Shan Jia</u>, Xin Li, *et al.*, IEEE Transactions on Circuits and Systems for Video Technology, [**Paper**](https://arxiv.org/pdf/2005.06514.pdf), [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
+<u>Shan Jia</u>, Xin Li, *et al.*, IEEE Transactions on Circuits and Systems for Video Technology
+
+[**Paper**](https://arxiv.org/pdf/2005.06514.pdf), [**Dataset**](https://github.com/shanface33/Wax_Figure_Face_DB)
 
 </div>
 </div>
