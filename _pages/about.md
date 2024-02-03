@@ -24,7 +24,7 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 **Research Interests**: Digital Media Forensics, Biometrics, and Computer Vision, etc.
 
 # 🔈 News
-* 2024.01: I was interviewed by [Futurum Careers, UK](https://futurumcareers.com/) together with Prof. Siwei Lyu ([link](https://futurumcareers.com/Issue-24.pdf). 
+* 2024.01: I was interviewed by [Futurum Careers, UK](https://futurumcareers.com/) together with Prof. Siwei Lyu ([link](https://futurumcareers.com/Issue-24.pdf)). 
 * 2024.01: A paper on uncovering text-image inconsistency is accepted by ICLR 2024 ([link](https://openreview.net/pdf?id=Ny150AblPu)).
 * 2023.11: I am invited to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
 * 2023.10: A paper on improving fairness in deepfake detection is accepted by WACV 2024 ([**Code**](https://github.com/littlejuyan/DF_Fairness), [news report by UBNow](https://www.buffalo.edu/ubnow/stories/2024/01/lyu-deepfake-bias.html)).
