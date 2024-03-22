@@ -23,8 +23,8 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 
 **Research Interests**: Digital Media Forensics, Biometrics, and Computer Vision, etc.
 
-# 🔈 News
-* 2024.02: I was invited to give a talk on Deepfake video detection by [Reality Defender](https://realitydefender.com/). 
+# 🔈 News 
+* 2024.02: Glad to give a talk on Deepfake video detection, invited by [Reality Defender](https://realitydefender.com/). 
 * 2024.01: I was interviewed by [Futurum Careers, UK](https://futurumcareers.com/) together with Prof. Siwei Lyu ([link](https://futurumcareers.com/Issue-24.pdf)). 
 * 2024.01: A paper on uncovering text-image inconsistency is accepted by ICLR 2024 ([link](https://openreview.net/pdf?id=Ny150AblPu)).
 * 2023.11: I am invited to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
@@ -43,6 +43,17 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 * 2020.12: I joined [2020 International Graduate Workshop on GeoInformatics](http://www.lmars.whu.edu.cn/Upload/1608014392.pdf), and won the Excellent Presentation Award (1/11).
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2024</div><img src='images/ICLR_24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Exposing Text-Image Inconsistency Using Diffusion Models]**
+
+ Mingzhen Huang, <u>Shan Jia</u>, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu
+
+The Twelfth International Conference on Learning Representations, ICLR 2024, [**Paper**](https://openreview.net/pdf?id=Ny150AblPu), [**Code**](https://mingzhenhuang.com/projects/InconsisDet.html)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM23</div><img src='images/TMM_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
