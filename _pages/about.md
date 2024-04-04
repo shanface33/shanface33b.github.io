@@ -29,7 +29,7 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 * 2024.03: Two papers are accepted by ICME 2024. Congratulations to Soumyya and Yu! 
 * 2024.02: Glad to give a talk on Deepfake video detection, invited by [Reality Defender](https://realitydefender.com/). 
 * 2024.01: I was interviewed by [Futurum Careers, UK](https://futurumcareers.com/) together with Prof. Siwei Lyu ([link1](https://futurumcareers.com/Issue-24.pdf), [link2](https://futurumcareers.com/detecting-deepfakes-how-can-we-ensure-that-generative-ai-is-used-for-good)). 
-* 2024.01: A paper on uncovering text-image inconsistency is accepted by ICLR 2024 ([link](https://openreview.net/pdf?id=Ny150AblPu), [Video](https://www.youtube.com/watch?v=FjI-z3kte4U)).
+* 2024.01: A paper on uncovering text-image inconsistency is accepted by ICLR 2024 ([link](https://openreview.net/pdf?id=Ny150AblPu), [video](https://www.youtube.com/watch?v=FjI-z3kte4U)).
 * 2023.11: Glad to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
 * 2023.10: A paper on improving fairness in deepfake detection is accepted by WACV 2024 ([**Code**](https://github.com/littlejuyan/DF_Fairness), [news report by UBNow](https://www.buffalo.edu/ubnow/stories/2024/01/lyu-deepfake-bias.html)).
 * 2023.09: A paper on audio-visual deepfake detection is accepted by MIT IEEE Undergraduate Research Technology Conference. Congratulations to Sneha Muppalla (a senior high school student)!
@@ -53,7 +53,7 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 
  Mingzhen Huang, <u>Shan Jia</u>, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu
 
-The Twelfth International Conference on Learning Representations, ICLR 2024, [**Paper**](https://openreview.net/pdf?id=Ny150AblPu), [**Code**](https://mingzhenhuang.com/projects/InconsisDet.html)
+The Twelfth International Conference on Learning Representations, ICLR 2024, [**Paper**](https://openreview.net/pdf?id=Ny150AblPu), [**Code**](https://mingzhenhuang.com/projects/InconsisDet.html), [**Video**](https://www.youtube.com/watch?v=FjI-z3kte4U)
 </div>
 </div>
 
