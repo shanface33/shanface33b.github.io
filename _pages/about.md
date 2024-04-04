@@ -28,7 +28,7 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 * 2024.04: One paper on using ChatGPT-4V for Deepfake face detection is accepted by CVPR2024 Workshop on Media Forensics (WMF). 
 * 2024.03: Two papers are accepted by ICME 2024. Congratulations to Soumyya and Yu! 
 * 2024.02: Glad to give a talk on Deepfake video detection, invited by [Reality Defender](https://realitydefender.com/). 
-* 2024.01: I was interviewed by [Futurum Careers, UK](https://futurumcareers.com/) together with Prof. Siwei Lyu ([link](https://futurumcareers.com/Issue-24.pdf)). 
+* 2024.01: I was interviewed by [Futurum Careers, UK](https://futurumcareers.com/) together with Prof. Siwei Lyu ([link1](https://futurumcareers.com/Issue-24.pdf), [link2](https://futurumcareers.com/detecting-deepfakes-how-can-we-ensure-that-generative-ai-is-used-for-good)). 
 * 2024.01: A paper on uncovering text-image inconsistency is accepted by ICLR 2024 ([link](https://openreview.net/pdf?id=Ny150AblPu), [Video](https://www.youtube.com/watch?v=FjI-z3kte4U)).
 * 2023.11: Glad to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
 * 2023.10: A paper on improving fairness in deepfake detection is accepted by WACV 2024 ([**Code**](https://github.com/littlejuyan/DF_Fairness), [news report by UBNow](https://www.buffalo.edu/ubnow/stories/2024/01/lyu-deepfake-bias.html)).
