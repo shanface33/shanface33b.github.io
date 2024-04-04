@@ -24,6 +24,9 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 **Research Interests**: Digital Media Forensics, Biometrics, and Computer Vision, etc.
 
 # 🔈 News 
+* 2024.04: Glad to be featured on Buffalo News: [link](https://buffalonews.com/news/local/business/schumer-ub-tout-buffalos-ai-opportunity-as-nations-top-scientist-visits/article_09fa6c48-f11f-11ee-90cc-73d65e6fecf9.html). 
+* 2024.04: One paper on using ChatGPT-4V on Deepfake face detection is accepted by CVPR2024 Workshop on Media Forensics (WMF). 
+* 2024.03: Two papers on Deepfake video detection are accepted by ICME 2024. Congratulations to Soumyya and Yu! 
 * 2024.02: Glad to give a talk on Deepfake video detection, invited by [Reality Defender](https://realitydefender.com/). 
 * 2024.01: I was interviewed by [Futurum Careers, UK](https://futurumcareers.com/) together with Prof. Siwei Lyu ([link](https://futurumcareers.com/Issue-24.pdf)). 
 * 2024.01: A paper on uncovering text-image inconsistency is accepted by ICLR 2024 ([link](https://openreview.net/pdf?id=Ny150AblPu)).
@@ -33,7 +36,7 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 * 2023.08: A paper on street view imagery analysis is accepted by ISPRS Journal of Photogrammetry and Remote Sensing.
 * 2023.08: I’m starting a new position as Assistant Lab Director at [UB Media Forensic Lab (UB MDFL)](https://ubmdfl.cse.buffalo.edu/)!😊
 * 2023.08: A paper on image forgery detection is accepted by IEEE Transactions on Multimedia.
-* 2023.04: Two papers are accepted by the CVPR2023 Workshop on Media Forensics (WMF). Our Autosplice dataset has been released ([link](https://github.com/shanface33/AutoSplice_Dataset))! 
+* 2023.04: Two papers are accepted by CVPR2023 Workshop on Media Forensics (WMF). Our Autosplice dataset has been released ([link](https://github.com/shanface33/AutoSplice_Dataset))! 
 * 2022.11: A paper on street view image inpainting is accepted by ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 12.7).
 * 2022.06: Two papers on Media Forensics are accepted by ICIP 2022.
 * 2022.01: A paper on Image-text De-contextualization Detection is accepted by ICASSP 2022.
