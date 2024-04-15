@@ -11,6 +11,9 @@ main:
 
   - title: "Education"
     url: "/#-education" 
+    
+  - title: "Services"
+    url: "/#-Services" 
 
   - title: "CV"
     url: "https://drive.google.com/file/d/1BeIB9QEgcp13yQJay-_G3Q_LP4tZj1l1/view?usp=sharing"
