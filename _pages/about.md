@@ -26,7 +26,7 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 # 🔈 News 
 * 2024.04: Glad to be featured on Buffalo News: [link](https://buffalonews.com/news/local/business/schumer-ub-tout-buffalos-ai-opportunity-as-nations-top-scientist-visits/article_09fa6c48-f11f-11ee-90cc-73d65e6fecf9.html). 
 * 2024.04: One paper on using ChatGPT-4V for Deepfake face detection is accepted by CVPR2024 Workshop on Media Forensics ([paper](https://arxiv.org/pdf/2403.14077.pdf), [link](https://github.com/shanface33/GPT4MF_UB)). 
-* 2024.03: Two papers are accepted by ICME 2024. Congratulations to Soumyya and Yu! 
+* 2024.03: Two papers are accepted by ICME 2024 **Oral**. Congratulations to Soumyya and Yu! 
 * 2024.02: Glad to give a talk on Deepfake video detection, invited by [Reality Defender](https://realitydefender.com/). 
 * 2024.01: I was interviewed by [Futurum Careers, UK](https://futurumcareers.com/) together with Prof. Siwei Lyu ([link1](https://futurumcareers.com/Issue-24.pdf), [link2](https://futurumcareers.com/detecting-deepfakes-how-can-we-ensure-that-generative-ai-is-used-for-good)). 
 * 2024.01: A paper on uncovering text-image inconsistency is accepted by ICLR 2024 ([link](https://openreview.net/pdf?id=Ny150AblPu), [video](https://www.youtube.com/watch?v=FjI-z3kte4U)).
