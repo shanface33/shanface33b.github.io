@@ -24,22 +24,23 @@ I am currently a Research Scientist and Assistant Lab Director in the [Departmen
 **Research Interests**: Digital Media Forensics, Biometrics, and Computer Vision, etc.
 
 # 🔈 News 
+* 2024.09: One paper on multi-aspect text-driven image editing is accepted by NeurIPS 2024 ([link](https://arxiv.org/pdf/2406.00985)). 
+* 2024.07: Glad to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
 * 2024.04: Glad to be featured on Buffalo News: [link](https://buffalonews.com/news/local/business/schumer-ub-tout-buffalos-ai-opportunity-as-nations-top-scientist-visits/article_09fa6c48-f11f-11ee-90cc-73d65e6fecf9.html). 
 * 2024.04: One paper on using ChatGPT-4V for Deepfake face detection is accepted by CVPR2024 Workshop on Media Forensics ([paper](https://arxiv.org/pdf/2403.14077.pdf), [link](https://github.com/shanface33/GPT4MF_UB)). 
 * 2024.03: Two papers are accepted by ICME 2024 **Oral**. Congratulations to Soumyya and Yu! 
 * 2024.02: Glad to give a talk on Deepfake video detection, invited by [Reality Defender](https://realitydefender.com/). 
 * 2024.01: I was interviewed by [Futurum Careers, UK](https://futurumcareers.com/) together with Prof. Siwei Lyu ([link1](https://futurumcareers.com/Issue-24.pdf), [link2](https://futurumcareers.com/detecting-deepfakes-how-can-we-ensure-that-generative-ai-is-used-for-good)). 
-* 2024.01: A paper on uncovering text-image inconsistency is accepted by ICLR 2024 ([link](https://openreview.net/pdf?id=Ny150AblPu), [video](https://www.youtube.com/watch?v=FjI-z3kte4U)).
-* 2023.11: Glad to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
-* 2023.10: A paper on improving fairness in deepfake detection is accepted by WACV 2024 ([**Code**](https://github.com/littlejuyan/DF_Fairness), [news report by UBNow](https://www.buffalo.edu/ubnow/stories/2024/01/lyu-deepfake-bias.html)).
-* 2023.09: A paper on audio-visual deepfake detection is accepted by MIT IEEE Undergraduate Research Technology Conference. Congratulations to Sneha Muppalla (a senior high school student)!
-* 2023.08: A paper on street view imagery analysis is accepted by ISPRS Journal of Photogrammetry and Remote Sensing.
+* 2024.01: One paper on uncovering text-image inconsistency is accepted by ICLR 2024 ([link](https://openreview.net/pdf?id=Ny150AblPu), [video](https://www.youtube.com/watch?v=FjI-z3kte4U)).
+* 2023.10: One paper on improving fairness in deepfake detection is accepted by WACV 2024 ([**Code**](https://github.com/littlejuyan/DF_Fairness), [news report by UBNow](https://www.buffalo.edu/ubnow/stories/2024/01/lyu-deepfake-bias.html)).
+* 2023.09: One paper on audio-visual deepfake detection is accepted by MIT IEEE Undergraduate Research Technology Conference. Congratulations to Sneha Muppalla (a senior high school student)!
+* 2023.08: One paper on street view imagery analysis is accepted by ISPRS Journal of Photogrammetry and Remote Sensing.
 * 2023.08: I’m starting a new position as Assistant Lab Director at [UB Media Forensic Lab (UB MDFL)](https://ubmdfl.cse.buffalo.edu/)!😊
-* 2023.08: A paper on image forgery detection is accepted by IEEE Transactions on Multimedia.
+* 2023.08: One paper on image forgery detection is accepted by IEEE Transactions on Multimedia.
 * 2023.04: Two papers are accepted by CVPR2023 Workshop on Media Forensics (WMF). Our Autosplice dataset has been released ([link](https://github.com/shanface33/AutoSplice_Dataset))! 
-* 2022.11: A paper on street view image inpainting is accepted by ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 12.7).
+* 2022.11: One paper on street view image inpainting is accepted by ISPRS Journal of Photogrammetry and Remote Sensing (Impact Factor: 12.7).
 * 2022.06: Two papers on Media Forensics are accepted by ICIP 2022.
-* 2022.01: A paper on Image-text De-contextualization Detection is accepted by ICASSP 2022.
+* 2022.01: One paper on Image-text De-contextualization Detection is accepted by ICASSP 2022.
 * 2021.12: I gave a keynote speech on Deepfakes at [Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop](https://mfc.nist.gov/workshop).
 * 2021.10: I joined [UC Berkeley InforCamp](https://infocamp.ischool.berkeley.edu/) Deepfake Panel as a speaker.
 * 2021.06: I defended my Ph.D. dissertation on face spoofing detection and will join UB as a Post-Doctoral Researcher.
