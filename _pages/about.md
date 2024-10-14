@@ -19,11 +19,12 @@ redirect_from:
 
 Welcome to my homepage! My name is Shan Jia (贾姗). In Mandarin, my name coincidentally mirrors the pronunciation of "Fake Mountain." What's even more interesting is that my research is closely related to "fake things", including the identification and generation of fake images, videos, audio, and news😀.
 
-I am currently a Research Scientist and Assistant Lab Director in the [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering/about-us.html) at the University at Buffalo (UB), State University of New York. I feel lucky to be a member of the [Media Forensic Lab](https://ubmdfl.cse.buffalo.edu/) led by Professor [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/index.html). Before joining to UB, I was a visiting scholar in the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with Professor [Xin Li](https://xinli.faculty.wvu.edu/) and [Guodong Guo](https://directory.statler.wvu.edu/faculty-staff-directory/guodong-guo). In 2021, I finished my Ph.D. from Wuhan University, advised by Professor [Zhengquan Xu](https://www.researchgate.net/profile/Zhengquan-Xu).
+I am currently a Software Engineer at YouTube, Google, working on misinformation and synthetic media detection. Before joining Google, I was a Research Scientist and Assistant Lab Director in the [Media Forensic Lab](https://ubmdfl.cse.buffalo.edu/) led by Professor [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/index.html) at the University at Buffalo (UB), State University of New York.
 
 **Research Interests**: Digital Media Forensics, Biometrics, and Computer Vision, etc.
 
 # 🔈 News 
+* 2024.10: 🎉🎉 I’m starting a new role as a Software Engineer in YouTube Trust & Safety team at Google!
 * 2024.09: One paper on multi-aspect text-driven image editing is accepted by NeurIPS 2024 ([link](https://arxiv.org/pdf/2406.00985)). 
 * 2024.07: Glad to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
 * 2024.04: Glad to be featured on Buffalo News: [link](https://buffalonews.com/news/local/business/schumer-ub-tout-buffalos-ai-opportunity-as-nations-top-scientist-visits/article_09fa6c48-f11f-11ee-90cc-73d65e6fecf9.html). 
