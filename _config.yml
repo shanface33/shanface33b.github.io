@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shan Jia"
-description              : "University at Buffalo"
+description              : "YouTube, Google"
 repository               : "shanface33/https://shan_jia.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shan Jia"
   avatar           : "images/Profile.png"
-  bio              : "Research Scientist"
-  location         : "Buffalo, NY, USA"
+  bio              : ""
+  location         : "Mountain View, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YTAkshQAAAAJ"
-  email            : "shanjia@buffalo.edu"
+  email            : "shanjia@google.com"
   researchgate     :  "https://www.researchgate.net/profile/Shan-Jia"
   uri              :
   bitbucket        :
