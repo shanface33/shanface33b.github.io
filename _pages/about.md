@@ -24,6 +24,8 @@ I am currently a Software Engineer at YouTube, Google, working on misinformation
 **Research Interests**: Digital Media Forensics, Biometrics, and Computer Vision, etc.
 
 # 🔈 News 
+* 2024.12: One paper on image inpainting localization is accepted by IEEE Transactions on Information Forensics and Security!
+* 2024.11: Glad to serve as a Technical Program Chair of [13th ACM Workshop on Information Hiding and Multimedia Security (IH&MMSec'25)](https://www.ihmmsec.org/).
 * 2024.10: 🎉🎉 I’m starting a new role as a Software Engineer in YouTube Trust & Safety team at Google!
 * 2024.09: One paper on multi-aspect text-driven image editing is accepted by NeurIPS 2024 ([link](https://arxiv.org/pdf/2406.00985)). 
 * 2024.07: Glad to serve The 20th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS) 2024 as a Publication Chair.
